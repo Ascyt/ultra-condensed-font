@@ -54,6 +54,7 @@ for i, letter in enumerate(ascii_lowercase):
 
 # Numbers: import from NUMBER_DIR
 for i, digit in enumerate(digits):
+    break
     svg_path = os.path.join(NUMBER_DIR, f"{digit}.svg")
     if not os.path.exists(svg_path):
         print(f"Missing {svg_path}")
