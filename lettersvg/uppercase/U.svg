@@ -8,10 +8,12 @@
     <path id="path31-7-9-5-4-9-6-6-1" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 0.5,56 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 z"/>
   </g>
 </g>
-  <g transform="translate(-209.0, -0.0) scale(1 1) "><path id="path31-7-5-9-1-7-4-1" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 220.52915,56.058334 a 5,5 0 0 0 5,5 5,5 0 0 0 5,-5 5,5 0 0 0 -5,-5 5,5 0 0 0 -5,5 z"/>
-    <path id="path31-7-9-9" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 220.52915,6.0583363 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,4.9999997 5,5 0 0 1 -5,-4.9999997 z"/>
-    <path id="path31-7-9-5-48" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 220.52915,16.058336 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 z"/>
-    <path id="rect1038-8" style="fill:#ffffff;stroke-width:0" d="m 220.52915,6.0583363 h 10 v 9.9999997 h -10 z"/>
+  <g transform="translate(-253.0, -0.0) scale(1 1) "><path id="path31-7-9-7-4-67-5" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 264.52918,6.0583334 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,4.9999996 5,5 0 0 1 -5,-4.9999996 z"/>
+    <path id="path31-7-9-5-4-9-6-6" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 264.52918,23.558334 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 z"/>
+    <path id="rect1038-1-6-2-1" style="fill:#ffffff;stroke-width:0" d="m 264.52918,6.0583334 h 10 V 23.558333 h -10 z"/>
+    <path id="path31-7-9-7-4-67-5-4" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 264.52918,38.558334 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 z"/>
+    <path id="path31-7-9-5-4-9-6-6-1" style="fill:#ffffff;fill-rule:evenodd;stroke-width:0" d="m 264.52918,56.058334 a 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 z"/>
+    <path id="rect1038-1-6-2-1-5" style="fill:#ffffff;stroke-width:0" d="m 264.52918,38.558334 h 10 v 17.5 h -10 z"/>
     
 </g>
 </svg>

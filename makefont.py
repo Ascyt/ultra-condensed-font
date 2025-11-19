@@ -6,7 +6,7 @@ import psMat
 from string import ascii_uppercase, ascii_lowercase, digits
 
 FONT_NAME = "MySVGFont"
-OUTPUT_FONT = "output_font.ttf"
+OUTPUT_FONT = "ucf.ttf"
 SVG_DIR = "lettersvg"
 UPPERCASE_DIR = "lettersvg/uppercase"
 NUMBER_DIR = "numbersvg"
